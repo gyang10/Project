@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Ge Yang (gyang10)  
+# 👋 Hi there, I'm Ge Yang
 
 Welcome to my GitHub profile! I'm a budding **Data Analyst** with a passion for turning raw data into actionable insights. Currently, I'm diving deep into data analysis tools and techniques to build a solid foundation for a career in analytics.  
 
